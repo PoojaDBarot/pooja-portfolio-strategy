@@ -1,6 +1,6 @@
 # Pooja Barot — Strategy Portfolio
 
-Strategy-focused version of Pooja Barot's portfolio. Every page leads with strategy results; the general version lives in the `poojadbarot.github.io` repo.
+Strategy-focused version of Pooja Barot's portfolio. Every page leads with strategy results; the general version lives in the `pooja-portfolio` repo.
 
 **Live site:** https://poojadbarot.github.io/pooja-portfolio-strategy/
 
